@@ -1,7 +1,5 @@
 import tkinter as tk
 import os
-import termcolor
-import time as time
 os.system("cls")
 
 
